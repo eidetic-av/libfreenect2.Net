@@ -1,6 +1,6 @@
 #pragma once
 
-#include <libfreenect2\registration.h>
+#include <registration.h>
 #include "ManagedWrapper.h"
 #include "CameraParameters.h"
 #include "Frame.h"

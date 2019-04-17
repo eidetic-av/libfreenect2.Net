@@ -1,7 +1,7 @@
 #pragma once
 
 #include <vcclr.h>
-#include <libfreenect2\libfreenect2.hpp>
+#include <libfreenect2.hpp>
 #include "ManagedWrapper.h"
 #include "Frame.h"
 

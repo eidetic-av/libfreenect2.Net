@@ -1,6 +1,6 @@
 #pragma once
 
-#include <libfreenect2\libfreenect2.hpp>
+#include <libfreenect2.hpp>
 
 using namespace libfreenect2;
 
